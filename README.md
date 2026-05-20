@@ -34,10 +34,6 @@
 2. 建置專案（Build → Build Solution）
 3. 執行（F5 或 Ctrl+F5）
 
-或直接執行已編譯的 `BookListView/bin/Debug/BookListView.exe`。
-
-> ⚠️ **注意**：執行前請將 `書籍封面` 資料夾（含 book1.jpg ～ book18.jpg）放置於 `bin/Debug/` 目錄下，否則封面將以佔位圖顯示。
-
 ## 📁 專案結構
 
 ```
